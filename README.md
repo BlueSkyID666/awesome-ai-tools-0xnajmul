@@ -141,6 +141,8 @@
 | Topaz Video AI | https://topazlabs.com/topaz-video-ai | AI video upscaling and frame interpolation software. |
 | Elai.io | https://elai.io | AI avatar video generator for corporate and training content. |
 
+| OrkasVideoStudio | https://github.com/Orkas-AI/Orkas-VideoStudio | Open-source local-first CLI and MCP toolkit for coding-agent video composition, editing, optional generation, and assembly from editable plan.json timelines; install from source. |
+
 ## 5. YouTube, Video Analytics & Creator Tools
 
 | Tool | Website | Description |
